@@ -18,7 +18,7 @@ typedef unsigned short WORD16;
 typedef unsigned int LONG32;
 typedef signed short INT16;
 
-#define BUILD   	(14) 															// Build Number.
+#define BUILD   	(15) 															// Build Number.
 
 #define FALSE       (0)                                                             // Boolean type
 #define TRUE        (!(FALSE))
